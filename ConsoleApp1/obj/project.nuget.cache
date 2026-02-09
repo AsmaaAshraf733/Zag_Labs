@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lakkSJx0JF0=",
+  "success": true,
+  "projectFilePath": "D:\\DEPI PROGECTS\\zag\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.2\\microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
